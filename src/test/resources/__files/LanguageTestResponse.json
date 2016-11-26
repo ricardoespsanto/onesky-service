@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "status": 200,
+    "record_count": 3
+  },
+  "data": [{
+    "code": "en-US",
+    "english_name": "English (United States)",
+    "local_name": "English (United States)",
+    "locale": "en",
+    "region": "US"
+  }, {
+    "code": "ja-JP",
+    "english_name": "Japanese",
+    "local_name": "日本語",
+    "locale": "ja",
+    "region": "JP"
+  }, {
+    "code": "ko-KR",
+    "english_name": "Korean",
+    "local_name": "한국어",
+    "locale": "ko",
+    "region": "KR"
+  }]
+}

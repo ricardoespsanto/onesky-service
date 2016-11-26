@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "status": 200,
+    "record_count": 2
+  },
+  "data": [{
+      "file_name": "strings.po",
+      "string_count": 236,
+      "last_import": {
+        "id": 123,
+        "status": "in-progress"
+      },
+      "uploaded_at": "2013-10-07T15:27:10+0000",
+      "uploaded_at_timestamp": 1381159630
+    }, {
+      "name": "en.yml",
+      "string_count": 335,
+      "last_import": {
+        "id": 109,
+        "status": "completed"
+      },
+      "uploaded_at": "2013-10-05T12:36:52+0000",
+      "uploaded_at_timestamp": 1380976612
+    }]
+}
